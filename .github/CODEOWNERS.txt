@@ -1,0 +1,9 @@
+
+# Code Owners
+# Responsables de revisar los cambios del proyecto
+
+# Propietaria del repositorio
+* @CarlaLopez38
+
+# Configuración de GitHub
+/.github/ @CarlaLopez38
